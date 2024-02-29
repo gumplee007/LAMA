@@ -7,7 +7,7 @@ Date: 2024/2/29
 
 LAMA is used to estimate the stellar parameters, including Teff, logg, [Fe/H], RV and vsini from LAMOST-MRS spectrum.
 
-LAMA.py: the main code of LAMA
+LAMA.py: the main code of LAMA.
 
 air2vac.py: a function to convert the wavelength from air to vaccum.
 
